@@ -5,7 +5,7 @@ A simple REST API for money transfer between accounts implemented with
 Thorntail, JAX-RS, JPA and H2 database.
 
 ### System requirements
-Tha application requires `JDK 11` or higher.
+The application requires `JDK 11` or higher.
 ### How to run
 You can build and run the project using the following command
 ```sh
